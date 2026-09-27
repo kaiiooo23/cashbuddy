@@ -1,0 +1,6 @@
+{
+  "name": "CashBuddy AI",
+  "description": "Asisten finansial pribadi dan pencatat keuangan cerdas untuk mahasiswa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

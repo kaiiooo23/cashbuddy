@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CashBuddy AI</string>
+    <string name="tagline">Asisten Finansial Cerdas Mahasiswa</string>
+    <string name="tab_home">Dompet</string>
+    <string name="tab_chat">CashBuddy AI</string>
+    <string name="tab_analytics">Analisis</string>
+    <string name="tab_settings">Profil</string>
+</resources>
